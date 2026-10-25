@@ -1,0 +1,7 @@
+{
+  "name": "streamscout-webos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {"test": "node --test tests/*.test.cjs", "build": "ares-package app -o dist"},
+  "devDependencies": {"@webos-tools/cli": "3.2.6"}
+}
