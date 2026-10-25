@@ -1,6 +1,6 @@
 # StreamScout for webOS
 
-Private TV client for [StreamScout](https://github.com/gantou/streamscout). The FastAPI server retains discovery, scores, profiles, recording and relaying. This repository owns the LG launcher, setup and remote adaptations. No backend fork or root service.
+TV client for [StreamScout](https://github.com/gantou/streamscout). The FastAPI server retains discovery, scores, profiles, recording and relaying. This repository owns the LG launcher, setup and remote adaptations. No backend fork or root service.
 
 ## First build (0.1.0)
 
@@ -31,7 +31,13 @@ npx ares-launch --device YOUR_TV com.gantou.streamscout
 
 On first launch enter your **TV-accessible** server URL, not localhost. Settings → Change StreamScout server returns to setup. Home-level Back hands control back to webOS.
 
-Homebrew Channel supports installing an IPK via its install service and custom repositories. **This private GitHub release is not anonymously downloadable by Homebrew Channel.** A LAN-hosted package/manifest/repository endpoint is still required for direct Homebrew Channel installation and updates. Do not expose GitHub tokens on the TV and do not make the repo public without owner approval.
+In Homebrew Channel → Settings → Add repository, enter:
+
+```
+https://raw.githubusercontent.com/gantou/streamscout-webos/main/homebrew/repo.json
+```
+
+Refresh the store, select StreamScout and install. The catalog and manifest are hosted in this public repository; the IPK downloads from GitHub Releases. Your StreamScout backend remains LAN-only.
 
 ## Verification and limitations
 
