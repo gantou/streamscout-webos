@@ -2,6 +2,14 @@
 
 TV client for [StreamScout](https://github.com/gantou/streamscout). The FastAPI server retains discovery, scores, profiles, recording and relaying. This repository owns the LG launcher, setup and remote adaptations. No backend fork or root service.
 
+## TV experience (0.2.0)
+
+- Viewport-filling playback with no webpage chrome or browser-native controls.
+- Remote-friendly Play/Pause overlay; hides after three seconds of playing and returns on interaction, pause, buffering or error.
+- Larger shelf spacing and focus treatment; desktop and phone are unchanged.
+- Payload directory permissions normalized to 755; files readable to LG's unprivileged WebAppMgr. This fixes startup aborts caused by the original package's 770 directory permissions.
+- Browser integration tests verify layout/control states under the server's unchanged CSP. Real live playback on the G3 still requires testing after updating.
+
 ## First build (0.1.0)
 
 - Packaged full-screen launcher, app icon, remembered server address and automatic reconnect on launch.
