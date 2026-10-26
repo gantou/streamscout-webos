@@ -11,15 +11,15 @@
     {
       "id": "com.gantou.streamscout",
       "title": "StreamScout",
-      "iconUri": "https://raw.githubusercontent.com/gantou/streamscout-webos/main/app/largeIcon.png",
-      "manifestUrl": "https://raw.githubusercontent.com/gantou/streamscout-webos/main/homebrew/manifest.json",
+      "iconUri": "https://gantou.github.io/streamscout-webos/app/largeIcon.png",
+  "manifestUrl": "https://gantou.github.io/streamscout-webos/homebrew/manifest.json",
       "manifest": {
         "id": "com.gantou.streamscout",
         "version": "0.4.4",
         "type": "web",
         "title": "StreamScout",
         "appDescription": "TV client for your StreamScout server",
-        "iconUri": "https://raw.githubusercontent.com/gantou/streamscout-webos/main/app/largeIcon.png",
+        "iconUri": "https://gantou.github.io/streamscout-webos/app/largeIcon.png",
         "sourceUrl": "https://github.com/gantou/streamscout-webos",
         "rootRequired": false,
         "ipkUrl": "https://github.com/gantou/streamscout-webos/releases/download/v0.4.4/com.gantou.streamscout_0.4.4_all.ipk",
