@@ -1,13 +1,13 @@
 {
   "id": "com.gantou.streamscout",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "type": "web",
   "title": "StreamScout",
   "appDescription": "TV client for your StreamScout server",
   "iconUri": "https://raw.githubusercontent.com/gantou/streamscout-webos/main/app/largeIcon.png",
   "sourceUrl": "https://github.com/gantou/streamscout-webos",
   "rootRequired": false,
-  "ipkUrl": "https://github.com/gantou/streamscout-webos/releases/download/v0.3.0/com.gantou.streamscout_0.3.0_all.ipk",
+  "ipkUrl": "https://github.com/gantou/streamscout-webos/releases/download/v0.4.0/com.gantou.streamscout_0.4.0_all.ipk",
   "ipkSize": 8102,
   "ipkHash": {
     "sha256": "a4824ce59cd295f0c1893f4c711840c11c5242e9e82a4d3fc91fb67f04c2a93b"
