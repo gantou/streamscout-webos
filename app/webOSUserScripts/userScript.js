@@ -1,6 +1,6 @@
 // webOS injects this script into hosted pages, including remote origins.
 (function(){'use strict';
-var params=new URLSearchParams(location.search);if(params.get('client')!=='webos'||window.__streamscoutWebOS)return;window.__streamscoutWebOS=true;
+var params=new URLSearchParams(location.search);if(document.getElementById('tv-root')||/\/tv\/$/.test(location.pathname))return;if(params.get('client')!=='webos'||window.__streamscoutWebOS)return;window.__streamscoutWebOS=true;
 var launcher=params.get('launcher');
 try{if(launcher&&new URL(launcher).protocol!=='file:')launcher=null;}catch(e){launcher=null;}
 try{localStorage.setItem('streamscout-tv','true');}catch(e){}
