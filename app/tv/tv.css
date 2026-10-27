@@ -2,6 +2,12 @@
 
 
 /* Content-led cards: logos and portraits, not anonymous gradient initials. */
+.tv-add-dialog{position:fixed;top:0;right:0;bottom:0;left:0;z-index:100;background:#08090cf5;display:flex;align-items:center;justify-content:center}
+.tv-add-dialog form{width:60vw;max-width:1200px;padding:4vw;background:#15202b;border:2px solid #ffffff26;border-radius:1vw}
+.tv-add-dialog h2{font-size:2.4vw;margin:0 0 2vw}.tv-add-dialog label{display:block;font-size:1.4vw;margin-bottom:1vw}
+.tv-add-dialog input{display:block;width:100%;font:inherit;font-size:1.7vw;padding:1vw;margin-bottom:2vw;border:2px solid #748697;border-radius:.4vw;background:#080e15;color:#fff}
+.tv-add-dialog button{padding:1vw 2vw;margin-right:1vw;background:#2b4355;border-radius:.4vw;font-size:1.5vw}
+.tv-add-dialog button:focus,.tv-add-dialog input:focus{outline:3px solid #8febd8;outline-offset:4px}
 .tv-art.kick{background:linear-gradient(125deg,#12352a,#12201e 65%)}
 .tv-art.twitch{background:linear-gradient(125deg,#382452,#191624 65%)}
 .channel-portrait{position:absolute;left:1.4vw;top:3.7vw;width:5vw;height:5vw;border-radius:50%;overflow:hidden;border:2px solid #ffffff26;background:#0a1713;display:flex;align-items:center;justify-content:center}
