@@ -25,23 +25,25 @@ if(item.provider==='sports'){
 }else if(item.provider==='youtube'&&/^[\w-]{11}$/.test(item.raw.id)){
  const img=el('img');img.src='https://i.ytimg.com/vi/'+item.raw.id+'/hqdefault.jpg';img.alt='';img.loading='lazy';img.onerror=()=>{img.remove();n.append(el('span',title.slice(0,2).toUpperCase(),'monogram'));};n.append(img);
 }else n.append(el('span',item.provider==='settings'?'⚙':title.slice(0,2).toUpperCase(),'monogram'));
-const live=item.raw?.live===true||score?.live,badgeText=live?'● LIVE':item.league?.toUpperCase()||item.provider.toUpperCase();n.append(el('span',badgeText,'tv-badge'+(live?' is-live':'')));
+const live=isLive(item),badgeText=live?'● LIVE':item.league?.toUpperCase()||item.provider.toUpperCase();n.append(el('span',badgeText,'tv-badge'+(live?' is-live':'')));
 if(item.raw?.position&&item.raw.duration){const bar=el('span',null,'tv-progress');bar.style.width=Math.min(100,item.raw.position/item.raw.duration*100)+'%';n.append(bar);}return n;}
 function hero(item){clearTimeout(heroTimer);heroTimer=setTimeout(()=>{if(!item)return;$('tv-title').textContent=item.title;$('tv-meta').textContent=item.meta;$('tv-description').textContent=item.description;$('tv-eyebrow').textContent='STREAMSCOUT / '+view.toUpperCase();$('tv-backdrop').replaceChildren(art(item));},90);}function scheduleHero(item,delay=850){clearTimeout(previewTimer);previewTimer=setTimeout(()=>hero(item),delay);}
 function setMenu(open){document.body.classList.toggle('menu-open',open);$('tv-menu').inert=!open;if(open){const b=$('tv-menu').querySelector('[data-view="'+view+'"]');b?.focus({preventScroll:true});}else restore();}
 function restore(){const saved=memory.get(view);const tiles=[...$('tv-shelves').querySelectorAll('.tv-tile')];(tiles.find(t=>t.dataset.key===saved?.key)||tiles[0])?.focus({preventScroll:true});}
 function focusTile(tile){if(!tile)return;tile.focus({preventScroll:true});}
+function isLive(item){if(item.provider==='sports'){if(item.raw?.scoreInfo)return item.raw.scoreInfo.live===true;const event=item.raw?.event;return event?.live===true||event?.status==='live';}return item.raw?.live===true;}
+function liveFirst(values){return [...values].sort((a,b)=>Number(isLive(b))-Number(isLive(a)));}
 function render(){
 const kick=items('kick',data.kick),twitch=items('twitch',data.twitch),yt=items('youtube',data.youtube),sport=[...data.nba,...data.sports];
 const kickSorted=[...kick].sort((a,b)=>Number(b.raw.live===true)-Number(a.raw.live===true)||a.title.localeCompare(b.title));
 const leagues=[['NBA',data.nba],...data.catalog.map(c=>[c.label,data.sports.filter(x=>x.league===c.id)])];
 const favoriteSports=sport.filter(x=>{const favs=data.sportsFavorites[x.league]||[];return favs.includes(x.raw.event.home)||favs.includes(x.raw.event.away);});
-const favorites=[...favoriteSports,...kick.filter(x=>x.raw.favorite===true),...twitch];
+const favorites=[...favoriteSports,...kick.filter(x=>x.raw.favorite===true),...twitch].filter(isLive);
 let shelves=view==='home'?[['Favorites',favorites],['Kick',kickSorted],...leagues,['Continue watching',yt.filter(x=>x.raw.position&&!x.raw.watched)],['New uploads',yt.filter(x=>x.raw.is_new&&!x.raw.watched)],['From your library',yt.slice(0,40)]]:
 view==='live'?[['Kick',kick.filter(x=>x.raw.live===true)],['Twitch',twitch.filter(x=>x.raw.live===true)],...leagues]:
 view==='library'?[['YouTube',yt],['Kick',kickSorted],['Twitch',twitch],['Discovered streams',data.scans.filter(s=>s.status==='done'&&s.streams?.length).map(s=>({key:'scan:'+s.id,provider:'streams',title:s.source_name||s.page_url||'Discovered stream',meta:'Saved discovery',description:'Select a discovered source to watch.',raw:s,streams:s.streams.map(x=>({...x,scan_id:s.id}))}))]]:
 view==='sports'?[['NBA',data.nba],...data.catalog.map(c=>[c.label,data.sports.filter(x=>x.league===c.id)])]:[['Preferences',settingsItems()]];
-shelves=shelves.filter(([,items])=>items.length);rows=[];$('tv-shelves').replaceChildren();$('tv-shelves').style.transform='translateY(0)';
+shelves=shelves.map(([title,values])=>[title,liveFirst(values)]).filter(([,items])=>items.length);rows=[];$('tv-shelves').replaceChildren();$('tv-shelves').style.transform='translateY(0)';
 for(const [title,values] of shelves){const section=el('section',null,'tv-shelf'),heading=el('h2',title),row=el('div',null,'tv-row'+(view==='settings'?' settings-row':''));section.append(heading,row);rows.push({row,section,items:values,index:0});for(const item of values){const tile=el('button',null,'tv-tile');tile.dataset.key=item.key;tile.setAttribute('aria-label',item.title);tile.append(art(item),el('span',item.title,'tv-caption'),el('span',item.provider==='sports'?(item.baseMeta||item.meta):item.meta,'tv-subtitle'));tile.onclick=()=>item.action?item.action():openDetails(item);tile.onfocus=()=>select(tile,item);row.append(tile);}$('tv-shelves').append(section);}
 if(!rows.length){$('tv-shelves').append(el('p',errors.size?'Some providers are unavailable. Open Settings to retry or manage your library.':'Nothing here yet. Add favorites in Settings, or try another section.','empty-state'));$('tv-title').textContent=view==='home'?'Your next watch.':view[0].toUpperCase()+view.slice(1);$('tv-description').textContent='Your library stays on your StreamScout server.';setMenu(true);}else if(!document.body.classList.contains('menu-open'))restore();else scheduleHero(rows[0].items[0],0);
 $('tv-menu').querySelectorAll('[data-view]').forEach(b=>{if(b.dataset.view===view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});document.body.classList.toggle('settings-view',view==='settings');}
