@@ -39,7 +39,8 @@ const kickSorted=[...kick].sort((a,b)=>Number(b.raw.live===true)-Number(a.raw.li
 const leagues=[['NBA',data.nba],...data.catalog.map(c=>[c.label,data.sports.filter(x=>x.league===c.id)])];
 const favoriteSports=sport.filter(x=>{const favs=data.sportsFavorites[x.league]||[];return favs.includes(x.raw.event.home)||favs.includes(x.raw.event.away);});
 const favorites=[...favoriteSports,...kick.filter(x=>x.raw.favorite===true),...twitch].filter(isLive);
-let shelves=view==='home'?[['Favorites',favorites],['Kick',kickSorted],...leagues,['Continue watching',yt.filter(x=>x.raw.position&&!x.raw.watched)],['New uploads',yt.filter(x=>x.raw.is_new&&!x.raw.watched)],['From your library',yt.slice(0,40)]]:
+const liveStreams=[...new Map([...sport,...kick,...twitch,...yt].filter(isLive).map(item=>[item.key,item])).values()];
+let shelves=view==='home'?[['Favorites',favorites],['Live streams',liveStreams],['Kick',kickSorted],...leagues,['Continue watching',yt.filter(x=>x.raw.position&&!x.raw.watched)],['New uploads',yt.filter(x=>x.raw.is_new&&!x.raw.watched)],['From your library',yt.slice(0,40)]]:
 view==='live'?[['Kick',kick.filter(x=>x.raw.live===true)],['Twitch',twitch.filter(x=>x.raw.live===true)],...leagues]:
 view==='library'?[['YouTube',yt],['Kick',kickSorted],['Twitch',twitch],['Discovered streams',data.scans.filter(s=>s.status==='done'&&s.streams?.length).map(s=>({key:'scan:'+s.id,provider:'streams',title:s.source_name||s.page_url||'Discovered stream',meta:'Saved discovery',description:'Select a discovered source to watch.',raw:s,streams:s.streams.map(x=>({...x,scan_id:s.id}))}))]]:
 view==='sports'?[['NBA',data.nba],...data.catalog.map(c=>[c.label,data.sports.filter(x=>x.league===c.id)])]:[['Preferences',settingsItems()]];
