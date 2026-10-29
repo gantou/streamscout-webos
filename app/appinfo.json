@@ -1,6 +1,6 @@
 {
   "id": "com.gantou.streamscout",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "vendor": "gantou",
   "type": "web",
   "main": "index.html",
