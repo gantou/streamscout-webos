@@ -1,0 +1,68 @@
+[
+  {
+    "id": "anthony-edwards",
+    "filename": "anthony-edwards.jpg",
+    "title": "Anthony Edwards running in transition (2021)",
+    "player": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "league": "NBA",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthony_Edwards_Kentavious_Caldwell-Pope_(51734745028).jpg",
+    "creator": "All-Pro Reels",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "attribution": "All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0",
+    "focalPoint": {
+      "x": 0.52,
+      "y": 0.32
+    },
+    "dimensions": [
+      4000,
+      6000
+    ],
+    "sha256": "f920f0818099ebffe38d74f3889fdf31d5003150f174f587ac1d0f3df154f53b"
+  },
+  {
+    "id": "lamelo-ball",
+    "filename": "lamelo-ball.jpg",
+    "title": "LaMelo Ball approaching the rim (2022 All-Star Game)",
+    "player": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "league": "NBA",
+    "source": "https://commons.wikimedia.org/wiki/File:LaMelo_Ball.jpg",
+    "creator": "Erik Drost",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "attribution": "Erik Drost / Wikimedia Commons, CC BY 2.0",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.36
+    },
+    "dimensions": [
+      5913,
+      3652
+    ],
+    "sha256": "e1502743751db46cae6245fb7989af704d4ea405e5877a76e76620f3278bcfec"
+  },
+  {
+    "id": "justin-jefferson",
+    "filename": "justin-jefferson.jpg",
+    "title": "Justin Jefferson pregame",
+    "player": "Justin Jefferson",
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "source": "https://commons.wikimedia.org/wiki/File:Justin_Jefferson_Commanders_vs_Vikings_NOV2022.jpg",
+    "creator": "All-Pro Reels / Joe Glorioso",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "attribution": "All-Pro Reels / Joe Glorioso / Wikimedia Commons, CC BY-SA 2.0",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.31
+    },
+    "dimensions": [
+      2339,
+      3511
+    ],
+    "sha256": "c5059a43df6c9f82a89edb1e3854f011c01c65b997941a99ff6493d3669236b3"
+  }
+]

@@ -7,7 +7,7 @@ with sync_playwright() as p:
     page = context.new_page()
     errors = []
     page.on('pageerror', lambda e: errors.append(str(e)))
-    page.goto('http://127.0.0.1:8000/tv/?client=webos&build=0.4.7', wait_until='domcontentloaded')
+    page.goto('http://127.0.0.1:8000/tv/?client=webos&build=0.4.14', wait_until='domcontentloaded')
     page.wait_for_selector('.tv-tile', timeout=60000)
     assert page.locator('.hero-copy').evaluate('e=>getComputedStyle(e).position') == 'absolute'
     assert page.locator('#tv-notice').is_hidden()
