@@ -10,8 +10,16 @@ with tempfile.TemporaryDirectory(dir=os.getenv('TMPDIR',str(root/'dist'))) as tm
     output=Path(tmp)/'data.tar.gz'
     with tarfile.open(fileobj=io.BytesIO(raw),mode='r:gz') as source,tarfile.open(output,mode='w:gz') as target:
         for member in source.getmembers():
-            member.mode=0o755 if member.isdir() or member.mode&0o111 else 0o644
+            member.mode=0o755 if member.isdir() else 0o644
             member.uid=member.gid=0;member.uname=member.gname='root'
-            target.addfile(member,source.extractfile(member) if member.isfile() else None)
+            prefix=f"usr/palm/applications/{info['id']}/"
+            original=root/'app'/member.name[len(prefix):] if member.name.startswith(prefix) else None
+            # LG's packager minifies JS by default. Preserve audited source bytes
+            # in the payload so the hosted and packaged TV frontend are identical.
+            if member.isfile() and original is not None and original.is_file():
+                data=original.read_bytes();member.size=len(data)
+                target.addfile(member,io.BytesIO(data))
+            else:
+                target.addfile(member,source.extractfile(member) if member.isfile() else None)
     subprocess.run(['ar','r',str(ipk),str(output)],check=True)
 subprocess.run(['python3','tests/package_permissions.py'],cwd=root,check=True)

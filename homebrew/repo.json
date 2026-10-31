@@ -15,21 +15,21 @@
       "manifestUrl": "https://gantou.github.io/streamscout-webos/homebrew/manifest.json",
       "manifest": {
         "id": "com.gantou.streamscout",
-        "version": "0.4.14",
+        "version": "0.4.15",
         "type": "web",
         "title": "StreamScout",
         "appDescription": "TV client for your StreamScout server",
         "iconUri": "https://gantou.github.io/streamscout-webos/app/largeIcon.png",
         "sourceUrl": "https://github.com/gantou/streamscout-webos",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/gantou/streamscout-webos/releases/download/v0.4.14/com.gantou.streamscout_0.4.14_all.ipk",
-        "ipkSize": 21713522,
+        "ipkUrl": "https://github.com/gantou/streamscout-webos/releases/download/v0.4.15/com.gantou.streamscout_0.4.15_all.ipk",
+        "ipkSize": 10416834,
         "ipkHash": {
-          "sha256": "5875ecad3a607b239b009e46cadbfc578da57e3bf0f82b81da3394edec81bf9c"
+          "sha256": "48d02b9e5980fa452139e688ee414125aa2288255e2762f3d2965df9018dcaf1"
         }
       },
       "pool": "main",
-      "shortDescription": "TV artwork, spoiler-safe live score overlay and time-limited moving ambient clock. Physical LG unverified."
+      "shortDescription": "39 credited sports photos, varied ambient shuffle and bounded TV shelves. Physical LG unverified."
     }
   ]
 }

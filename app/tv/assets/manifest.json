@@ -10,16 +10,45 @@
     "creator": "All-Pro Reels",
     "license": "CC BY-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "attribution": "All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0",
+    "attribution": "All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
     "focalPoint": {
       "x": 0.52,
       "y": 0.32
     },
     "dimensions": [
+      1280,
+      1920
+    ],
+    "sha256": "a208c4b05f89705beda040379f75313905b4ae519a2f641418523264c47b914a",
+    "sourceFile": "File:Anthony Edwards Kentavious Caldwell-Pope (51734745028).jpg",
+    "sourcePageId": 115891601,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthony_Edwards_Kentavious_Caldwell-Pope_%2851734745028%29.jpg",
+    "sourceSha1": "e075339a784eba80f383662b6cb06b0c7457609a",
+    "sourceDimensions": [
       4000,
       6000
     ],
-    "sha256": "f920f0818099ebffe38d74f3889fdf31d5003150f174f587ac1d0f3df154f53b"
+    "sourceDescription": "Washington Wizards vs. Minnesota Timberwolves (December 1, 2021)",
+    "sourceCredit": "https://www.flickr.com/photos/joeglo/51734745028/",
+    "sourceCategories": [
+      "Anthony Edwards (basketball)",
+      "Kentavious Caldwell-Pope",
+      "Images with extracted images",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Photographs by All-Pro Reels",
+      "Minnesota Timberwolves at Washington Wizards (December 1, 2021)"
+    ],
+    "rightsPageSha256": "a175024bc8a1f54978f1a0a31ae7e304d208329c56ad365512692acdbf04923c",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "jpegQuality": 76,
+    "actionSuitable": true,
+    "actionContext": "competitive",
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "bytes": 286628
   },
   {
     "id": "lamelo-ball",
@@ -32,16 +61,44 @@
     "creator": "Erik Drost",
     "license": "CC BY 2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "attribution": "Erik Drost / Wikimedia Commons, CC BY 2.0",
+    "attribution": "Erik Drost / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
     "focalPoint": {
       "x": 0.5,
       "y": 0.36
     },
     "dimensions": [
+      1920,
+      1186
+    ],
+    "sha256": "5b14a887197835ef5ccca2fcb3900555036c148264b078a6e2191dd728d50fbf",
+    "sourceFile": "File:LaMelo Ball.jpg",
+    "sourcePageId": 115747110,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/LaMelo_Ball.jpg",
+    "sourceSha1": "5864a39a3fd325a335b2f37ee498ed0d6c36233a",
+    "sourceDimensions": [
       5913,
       3652
     ],
-    "sha256": "e1502743751db46cae6245fb7989af704d4ea405e5877a76e76620f3278bcfec"
+    "sourceDescription": "LaMelo Ball at the 2022 NBA All-Star Game",
+    "sourceCredit": "https://www.flickr.com/photos/edrost88/51916059508/",
+    "sourceCategories": [
+      "2022 NBA All-Star Game",
+      "LaMelo Ball",
+      "Images with extracted images",
+      "Photographs by Erik Drost",
+      "Flickr images reviewed by FlickreviewR 2"
+    ],
+    "rightsPageSha256": "d0739fa750746e83683126a9c9920aaf5ef8646f8aedb246d3e9e2ebdd4ed968",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "jpegQuality": 70,
+    "actionSuitable": true,
+    "actionContext": "competitive",
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "bytes": 299940
   },
   {
     "id": "justin-jefferson",
@@ -51,18 +108,1923 @@
     "team": "Minnesota Vikings",
     "league": "NFL",
     "source": "https://commons.wikimedia.org/wiki/File:Justin_Jefferson_Commanders_vs_Vikings_NOV2022.jpg",
-    "creator": "All-Pro Reels / Joe Glorioso",
+    "creator": "All-Pro Reels",
     "license": "CC BY-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "attribution": "All-Pro Reels / Joe Glorioso / Wikimedia Commons, CC BY-SA 2.0",
+    "attribution": "All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
     "focalPoint": {
       "x": 0.5,
       "y": 0.31
     },
     "dimensions": [
+      1279,
+      1920
+    ],
+    "sha256": "27abc1ccf5ab20631a2830e5dba2d6a353de06011f2a8eb89bbb2b59103a9764",
+    "sourceFile": "File:Justin Jefferson Commanders vs Vikings NOV2022.jpg",
+    "sourcePageId": 125866711,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Justin_Jefferson_Commanders_vs_Vikings_NOV2022.jpg",
+    "sourceSha1": "61bcac0a8c00e1bd5e238eb01de88b1382207555",
+    "sourceDimensions": [
       2339,
       3511
     ],
-    "sha256": "c5059a43df6c9f82a89edb1e3854f011c01c65b997941a99ff6493d3669236b3"
+    "sourceDescription": "Minnesota Vikings wide receiver, Justin Jefferson, doing pre-game warm-ups before a game against the Washington Commanders at FedEx Field, Landover, Maryland on November 6, 2022.",
+    "sourceCredit": "https://www.flickr.com/photos/joeglo/52498175721/",
+    "sourceCategories": [
+      "Justin Jefferson",
+      "Files with coordinates missing SDC location of creation",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Minnesota Vikings at Washington Commanders (November 6, 2022)",
+      "Photographs by All-Pro Reels"
+    ],
+    "rightsPageSha256": "f6d30afc4779d50af484d008d08275e12bd19b0753edc94f8e8f7ee36822e4f4",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "jpegQuality": 76,
+    "actionSuitable": false,
+    "actionContext": "pregame-static",
+    "tags": [
+      "nfl",
+      "pregame-static"
+    ],
+    "bytes": 271968
+  },
+  {
+    "id": "larry-sanders-dunk",
+    "filename": "larry-sanders-dunk.jpg",
+    "title": "Larry Sanders dunking",
+    "player": "Larry Sanders",
+    "team": "Milwaukee Bucks",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Larry_Sanders_dunking_(cropped).jpg",
+    "sourceFile": "File:Larry Sanders dunking (cropped).jpg",
+    "sourcePageId": 127143187,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Larry_Sanders_dunking_%28cropped%29.jpg",
+    "sourceSha1": "a4d71ba6b15f64146e60521178d3539cc002fcae",
+    "sourceDimensions": [
+      1207,
+      2016
+    ],
+    "sourceDescription": "Milwaukee Bucks at Washington Wizards March 13, 2013",
+    "sourceCredit": "Flickr: Larry Sanders",
+    "sourceCategories": [
+      "Slam dunk",
+      "Larry Sanders (basketball)",
+      "2012–13 Washington Wizards season",
+      "2012–13 Milwaukee Bucks season",
+      "Extracted images",
+      "Flickr images uploaded by Flickr upload bot",
+      "NBA photos taken by Keith Allison"
+    ],
+    "rightsPageSha256": "cc5f35b395b66ff1896c8fe1c0d9e8bbd4a3a686256c2c612916513d11be2b77",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1603
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 290649,
+    "sha256": "783c36783730ac079b81f23427a6b3e6c09853629d337e6676302637fe6bf91d"
+  },
+  {
+    "id": "obi-toppin-dunk-contest",
+    "filename": "obi-toppin-dunk-contest.jpg",
+    "title": "Obi Toppin airborne in the 2022 Slam Dunk Contest",
+    "player": "Obi Toppin",
+    "team": "New York Knicks",
+    "league": "NBA",
+    "actionContext": "contest",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "contest"
+    ],
+    "creator": "Erik Drost",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Obi_Toppin_(2022_All-Star_Weekend).jpg",
+    "sourceFile": "File:Obi Toppin (2022 All-Star Weekend).jpg",
+    "sourcePageId": 115741379,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Obi_Toppin_%282022_All-Star_Weekend%29.jpg",
+    "sourceSha1": "bbd656f1ba034a3b90ca23a4586ae9d1a8fd1e31",
+    "sourceDimensions": [
+      3419,
+      4521
+    ],
+    "sourceDescription": "Obi Topping during the 2022 Slam Dunk Contest at the Rocket Mortgage FieldHouse in Cleveland",
+    "sourceCredit": "https://www.flickr.com/photos/edrost88/51915399348/",
+    "sourceCategories": [
+      "Obi Toppin",
+      "Slam Dunk Contest",
+      "Images with extracted images",
+      "2022 National Basketball Association All-Star Weekend",
+      "Photographs by Erik Drost",
+      "Flickr images reviewed by FlickreviewR 2",
+      "United States photographs taken on 2021-02-19"
+    ],
+    "rightsPageSha256": "7a1082f24cf788a09f776afe871559093f7fc86a4bd1c191c0d5658ff51bab18",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "attribution": "Erik Drost / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1234,
+      1632
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 282035,
+    "sha256": "748bff3b479e87b0a4a86b19b3e12e6ca5a1fbfe28dae591637edc1b81d0ab9b"
+  },
+  {
+    "id": "kawhi-leonard-free-throw",
+    "filename": "kawhi-leonard-free-throw.jpg",
+    "title": "Kawhi Leonard preparing a free throw in the 2019 NBA Finals",
+    "player": "Kawhi Leonard",
+    "team": "Toronto Raptors",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:1_kawhi_leonard_2019_nba_finals.jpg",
+    "sourceFile": "File:1 kawhi leonard 2019 nba finals.jpg",
+    "sourcePageId": 79435754,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/1_kawhi_leonard_2019_nba_finals.jpg",
+    "sourceSha1": "2e9c892f570a0dc308518c20ad47630e4e4a02e7",
+    "sourceDimensions": [
+      3528,
+      5118
+    ],
+    "sourceDescription": "Kawhi Leonard shooting a free throw at Game 2 of the 2019 NBA Finals",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Norman Powell (basketball)",
+      "Images with annotations",
+      "Fred VanVleet",
+      "Kawhi Leonard",
+      "2019 NBA Finals",
+      "Self-published work",
+      "Images with extracted images"
+    ],
+    "rightsPageSha256": "44e81450b038954cc45fd872bdf62846365eedeaedfe07dafab64971717b4b2f",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 4.0",
+    "attribution": "Chensiyuan / Wikimedia Commons, CC BY-SA 4.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1125,
+      1631
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 283979,
+    "sha256": "394e7f5be116a4d03a30cea21b9003665d1c70981e94fc73011c32e935415c58"
+  },
+  {
+    "id": "paul-pierce-shot",
+    "filename": "paul-pierce-shot.jpg",
+    "title": "Paul Pierce shooting",
+    "player": "Paul Pierce",
+    "team": "Boston Celtics",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Paul_Pierce_Shooting_Basketball.jpg",
+    "sourceFile": "File:Paul Pierce Shooting Basketball.jpg",
+    "sourcePageId": 59002665,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Paul_Pierce_Shooting_Basketball.jpg",
+    "sourceSha1": "26cba407ee3eed7e9f688e0372e3aaebfa90ba88",
+    "sourceDimensions": [
+      2030,
+      3028
+    ],
+    "sourceDescription": "Paul Pierce with Celtics",
+    "sourceCredit": "https://www.flickr.com/photos/keithallison/2311255220",
+    "sourceCategories": [
+      "Paul Pierce",
+      "2007–08 Boston Celtics season",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Flickr images missing SDC published in"
+    ],
+    "rightsPageSha256": "3dad7deba96bb20f43183bfc4389abbb1bdd5f3e558eb4b10c1b867e80a1c964",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1287,
+      1920
+    ],
+    "jpegQuality": 79,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 282434,
+    "sha256": "a6b2c7fd28bbe85c935cf577cec82cc3858a08bb06b98d20c505aa20c9d73709"
+  },
+  {
+    "id": "richard-hamilton-shot",
+    "filename": "richard-hamilton-shot.jpg",
+    "title": "Richard Hamilton shooting over defenders",
+    "player": "Richard Hamilton",
+    "team": "Detroit Pistons",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Rip_Hamilton_shoots.jpg",
+    "sourceFile": "File:Rip Hamilton shoots.jpg",
+    "sourcePageId": 56141985,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rip_Hamilton_shoots.jpg",
+    "sourceSha1": "34b151fba8de25b69b4dc480d4a8ee450bba2135",
+    "sourceDimensions": [
+      2318,
+      3184
+    ],
+    "sourceDescription": "Richard Hamilton playing with the w:Detroit Pistons",
+    "sourceCredit": "https://www.flickr.com/photos/keithallison/2357269574/",
+    "sourceCategories": [
+      "Roger Mason, Jr.",
+      "Dominic McGuire",
+      "Taken with Canon EOS-1D Mark III",
+      "2007–08 Detroit Pistons season",
+      "Oleksiy Pecherov",
+      "Theo Ratliff",
+      "Richard Hamilton (basketball)",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Flickr images missing SDC creator"
+    ],
+    "rightsPageSha256": "e94d6fcb7b7f88d00563288bd6aa6646d6ee33b5278628bbde03d9e0a72ddec9",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1398,
+      1920
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 283539,
+    "sha256": "bfb519edeb3e9b186856cd562500a967ed25b8dc0ee96caf94f049496e0547e9"
+  },
+  {
+    "id": "stephen-curry-shot",
+    "filename": "stephen-curry-shot.jpg",
+    "title": "Stephen Curry preparing a shot",
+    "player": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "league": "NBA",
+    "actionContext": "shooting-context-unconfirmed",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "shooting-context-unconfirmed"
+    ],
+    "creator": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephen_Curry_shooting.jpg",
+    "sourceFile": "File:Stephen Curry shooting.jpg",
+    "sourcePageId": 38508451,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stephen_Curry_shooting.jpg",
+    "sourceSha1": "7370d2fec2687091df94a5eb949b7d96409fd1a8",
+    "sourceDimensions": [
+      1748,
+      3029
+    ],
+    "sourceDescription": "Stephen Curry of Golden State Warriors",
+    "sourceCredit": "Stephen Curry",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark IV",
+      "2010–11 Golden State Warriors season",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Stephen Curry in 2011",
+      "Number 30 on basketball jerseys",
+      "Flickr images missing SDC published in"
+    ],
+    "rightsPageSha256": "c229993f2f75e6afb307749adb02b5e5dabe7907dcba8daa59250e73de95dcf8",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison from Hanover, MD, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1664
+    ],
+    "jpegQuality": 76,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 290940,
+    "sha256": "debdab1eab9502943e04184181655ee70b52cea95428fc4d7a9b7c7dc70d379d"
+  },
+  {
+    "id": "danny-amendola-punt-catch",
+    "filename": "danny-amendola-punt-catch.jpg",
+    "title": "Danny Amendola receiving a punt",
+    "player": "Danny Amendola",
+    "team": "Detroit Lions",
+    "league": "NFL",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nfl",
+      "competitive"
+    ],
+    "creator": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Danny_Amendola_punt_catch_(50611124391).jpg",
+    "sourceFile": "File:Danny Amendola punt catch (50611124391).jpg",
+    "sourcePageId": 112821318,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Danny_Amendola_punt_catch_%2850611124391%29.jpg",
+    "sourceSha1": "d1bd4d24e712d1a5cfc7791d5cc445a479256058",
+    "sourceDimensions": [
+      6000,
+      4000
+    ],
+    "sourceDescription": "All-Pro Reels -- from the Washington Football Team vs. Detroit Lions at Ford Field, Detroit, Michigan, November 15th, 2020 (All-Pro Reels Photography)",
+    "sourceCredit": "Danny Amendola punt catch",
+    "sourceCategories": [
+      "Danny Amendola",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Files uploaded by NguoiDungKhongDinhDanh/Flickr/All-Pro Reels/NFL 2021: Week 11 -- Washington at Panthers",
+      "Washington Football Team at Detroit Lions (November 15, 2020)",
+      "Photographs by All-Pro Reels"
+    ],
+    "rightsPageSha256": "0b29ff9bdf68877e47426bc911dd8633686c33c021e5327bba8b618b3cb76699",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "All-Pro Reels from District of Columbia, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1386,
+      924
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 291086,
+    "sha256": "1a096b63f3bac950bd16cbd08b69fc6d79084755cb2c2b6dc0eb07b16ee2dfab"
+  },
+  {
+    "id": "steven-sims-punt-catch",
+    "filename": "steven-sims-punt-catch.jpg",
+    "title": "Steven Sims Jr. receiving a punt",
+    "player": "Steven Sims Jr.",
+    "team": "Washington Football Team",
+    "league": "NFL",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nfl",
+      "competitive"
+    ],
+    "creator": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Steven_Sims_Jr._punt_catch_(50610371028).jpg",
+    "sourceFile": "File:Steven Sims Jr. punt catch (50610371028).jpg",
+    "sourcePageId": 112822145,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Steven_Sims_Jr._punt_catch_%2850610371028%29.jpg",
+    "sourceSha1": "285053323b095c24e1cb35fca555a42c9195a830",
+    "sourceDimensions": [
+      4627,
+      3080
+    ],
+    "sourceDescription": "All-Pro Reels -- from the Washington Football Team vs. Detroit Lions at Ford Field, Detroit, Michigan, November 15th, 2020 (All-Pro Reels Photography)",
+    "sourceCredit": "Steven Sims Jr. punt catch",
+    "sourceCategories": [
+      "Flickr images reviewed by FlickreviewR 2",
+      "Files uploaded by NguoiDungKhongDinhDanh/Flickr/All-Pro Reels/NFL 2021: Week 11 -- Washington at Panthers",
+      "Washington Football Team at Detroit Lions (November 15, 2020)",
+      "Photographs by All-Pro Reels",
+      "Mike Ford (American football)",
+      "Steven Sims in 2020"
+    ],
+    "rightsPageSha256": "d7e774fb395cacdec3c58d14d91ec7a1d1ab6c65c19740cd30dad84d190aad34",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "All-Pro Reels from District of Columbia, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1278
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 299405,
+    "sha256": "20735183150117b992377f62b046cd7c19b4f0a4af0adf848138718980e1bb65"
+  },
+  {
+    "id": "terry-mclaurin-warmup-catch",
+    "filename": "terry-mclaurin-warmup-catch.jpg",
+    "title": "Terry McLaurin reaching for a warmup catch",
+    "player": "Terry McLaurin",
+    "team": "Washington Football Team",
+    "league": "NFL",
+    "actionContext": "warmup",
+    "actionSuitable": true,
+    "tags": [
+      "nfl",
+      "warmup"
+    ],
+    "creator": "All-Pro Reels from District of Columbia, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Terry_McLaurin_warmup_catch_(51584160422).jpg",
+    "sourceFile": "File:Terry McLaurin warmup catch (51584160422).jpg",
+    "sourcePageId": 112095195,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Terry_McLaurin_warmup_catch_%2851584160422%29.jpg",
+    "sourceSha1": "eba6ee05cbfa116b11fc071e22a4abc1bb797422",
+    "sourceDimensions": [
+      6000,
+      4000
+    ],
+    "sourceDescription": "Terry McLaurin warmup catch",
+    "sourceCredit": "Terry McLaurin warmup catch",
+    "sourceCategories": [
+      "Flickr images reviewed by FlickreviewR 2",
+      "Terry McLaurin in 2021",
+      "New Orleans Saints at Washington Football Team, 10 October 2021",
+      "Files uploaded by NguoiDungKhongDinhDanh/Flickr/All-Pro Reels/NFL 2021 - Week 5 -- Washington vs. Saints (Album 2)",
+      "Photographs by All-Pro Reels",
+      "Flickr images missing SDC published in"
+    ],
+    "rightsPageSha256": "f4317679d048bd1748cb2599abdc71d28ee8a91d0ec33908586df2cc09b9b1fc",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "All-Pro Reels from District of Columbia, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1280
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 251074,
+    "sha256": "fe4938ec35834c14a50b8bccdca0cb2785e7a1c50cda0f551563f42c2ba49481"
+  },
+  {
+    "id": "chris-johnson-run",
+    "filename": "chris-johnson-run.jpg",
+    "title": "Chris Johnson running against Pittsburgh",
+    "player": "Chris Johnson",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nfl",
+      "competitive"
+    ],
+    "creator": "Andy McLemore",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:CJ2K_2008_PitAtTen.jpg",
+    "sourceFile": "File:CJ2K 2008 PitAtTen.jpg",
+    "sourcePageId": 33674511,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CJ2K_2008_PitAtTen.jpg",
+    "sourceSha1": "5b1afe4b3d02f2d26c12c87cbf58e0ba8d532e5a",
+    "sourceDimensions": [
+      2592,
+      1944
+    ],
+    "sourceDescription": "Tennessee Titans running back Chris Johnson in a 2008 match vs. Pittsburgh Steelers safety Troy Polamalu",
+    "sourceCredit": "https://www.flickr.com/photos/andy_emcee/3175408587",
+    "sourceCategories": [
+      "Taken with Sony DSLR-A300",
+      "Troy Polamalu",
+      "Chris Johnson (running back)",
+      "2008 Tennessee Titans season",
+      "Flickr images reviewed by trusted users",
+      "Flickr images missing SDC creator"
+    ],
+    "rightsPageSha256": "c71bb398160688f4b27188f50506071b7bd9917458f85acd182585f536e051b7",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Andy McLemore / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1632,
+      1224
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 281662,
+    "sha256": "eae4a44cdfc0e61bb6c3484eb03d5764f033be5e1c5bed1ea6d009e5a89a313d"
+  },
+  {
+    "id": "titans-handoff",
+    "filename": "titans-handoff.jpg",
+    "title": "Jake Locker handing off to Chris Johnson",
+    "player": "Jake Locker / Chris Johnson",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nfl",
+      "competitive"
+    ],
+    "creator": "Paula Lively",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Jake_Locker_Chris_Johnson_vs._Steelers_2013.jpg",
+    "sourceFile": "File:Jake Locker Chris Johnson vs. Steelers 2013.jpg",
+    "sourcePageId": 34135063,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jake_Locker_Chris_Johnson_vs._Steelers_2013.jpg",
+    "sourceSha1": "a81c0b05c7f0fefdaa7c996d9d75d095567b4a47",
+    "sourceDimensions": [
+      2560,
+      1920
+    ],
+    "sourceDescription": "Jake Locker hands off the football to Chris Johnson vs. Pittsburgh Steelers, sep. 8th, 2013",
+    "sourceCredit": "Flickr",
+    "sourceCategories": [
+      "Taken with Olympus E-520",
+      "Chris Johnson (running back)",
+      "Jake Locker",
+      "2013 Pittsburgh Steelers season",
+      "2013 Tennessee Titans season",
+      "Flickr images reviewed by FlickreviewR"
+    ],
+    "rightsPageSha256": "945806a564988ac6194550f4a9ef330e943c89074e0e1727254897f96a551f96",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "attribution": "Paula Lively / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1387,
+      1040
+    ],
+    "jpegQuality": 67,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 287096,
+    "sha256": "aa0034b5a6908c0581bf1212395ec8fbbee3abfa8f7853c385531034c0ef37bb"
+  },
+  {
+    "id": "aaron-judge-swing",
+    "filename": "aaron-judge-swing.jpg",
+    "title": "Aaron Judge batting in 2017",
+    "player": "Aaron Judge",
+    "team": "New York Yankees",
+    "league": "MLB",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "mlb",
+      "competitive"
+    ],
+    "creator": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Aaron_Judge_batting_in_2017_(36260697604)_(cropped).jpg",
+    "sourceFile": "File:Aaron Judge batting in 2017 (36260697604) (cropped).jpg",
+    "sourcePageId": 62365794,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aaron_Judge_batting_in_2017_%2836260697604%29_%28cropped%29.jpg",
+    "sourceSha1": "4f06ac5721232492f3446bd758a6787113d6dfb4",
+    "sourceDimensions": [
+      2468,
+      1574
+    ],
+    "sourceDescription": "Aaron Judge of the New York Yankees in 2017.",
+    "sourceCredit": "Aaron Judge",
+    "sourceCategories": [
+      "MLB photos taken by Keith Allison",
+      "Extracted images",
+      "Files with coordinates missing SDC location of creation",
+      "Baseball swing (follow through)",
+      "Aaron Judge in 2017"
+    ],
+    "rightsPageSha256": "a625b806de23b091676de49df006a22776a63ff5343c658f6ea4115795e27c5a",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison from Hanover, MD, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1225
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 275123,
+    "sha256": "1f6053b52192138f396d2f1e0bcbd7a3600a30ad6f4b9fbc091e78b01e83499a"
+  },
+  {
+    "id": "alex-rodriguez-batting",
+    "filename": "alex-rodriguez-batting.jpg",
+    "title": "Alex Rodriguez in his batting stance",
+    "player": "Alex Rodriguez",
+    "team": "New York Yankees",
+    "league": "MLB",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "mlb",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Alex_Rodriguez_batting_stance_2008.jpg",
+    "sourceFile": "File:Alex Rodriguez batting stance 2008.jpg",
+    "sourcePageId": 16223943,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alex_Rodriguez_batting_stance_2008.jpg",
+    "sourceSha1": "b547617eedb527ab5e4674a35be3646777373113",
+    "sourceDimensions": [
+      1437,
+      2560
+    ],
+    "sourceDescription": "Alex Rodriguez in a game on 5/26/08",
+    "sourceCredit": "Flickr: Alex Rodriguez",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark III",
+      "MLB photos taken by Keith Allison",
+      "Flickr images uploaded by Flickr upload bot",
+      "Batting stance (baseball)",
+      "Baseball players with high socks",
+      "Alex Rodriguez in 2008",
+      "Alex Rodriguez in the United States"
+    ],
+    "rightsPageSha256": "d3941eb994c0d9a5ad8ea1d3f99e5ee474a89b54a6931a0810a2467585418ced",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1710
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 288689,
+    "sha256": "17ed9d626ab298bec999ce7c4fc6c887fdfe7c1ef0b111d33bf0cbdf3a6e78a3"
+  },
+  {
+    "id": "robinson-cano-swing",
+    "filename": "robinson-cano-swing.jpg",
+    "title": "Robinson Canó batting against Baltimore",
+    "player": "Robinson Canó",
+    "team": "New York Yankees",
+    "league": "MLB",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "mlb",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Robinson_Can%C3%B3_batting_in_September_2012.jpg",
+    "sourceFile": "File:Robinson Canó batting in September 2012.jpg",
+    "sourcePageId": 27104325,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Robinson_Can%C3%B3_batting_in_September_2012.jpg",
+    "sourceSha1": "5391c6d655806e11ed0c9b487f795d4c8c981680",
+    "sourceDimensions": [
+      4329,
+      2472
+    ],
+    "sourceDescription": "New York Yankees at Baltimore Orioles September 9, 2012",
+    "sourceCredit": "Flickr: Robinson Cano",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark IV",
+      "Robinson Canó",
+      "Jerry Meals",
+      "2012 New York Yankees season",
+      "MLB photos taken by Keith Allison",
+      "Flickr images uploaded by Flickr upload bot",
+      "Matt Wieters in 2012",
+      "Major League Baseball umpires in 2012",
+      "Baseball swing (follow through)",
+      "Catchers in one knee stance"
+    ],
+    "rightsPageSha256": "ae9ea4e42f80f34a4a9b36b381c7136c42a9d0417b15cb39928f2e21891d29f5",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1096
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 247222,
+    "sha256": "d2838f952f3e6a5ab5714a6021c9123f139f967b1501c40b571699779ca2c020"
+  },
+  {
+    "id": "zack-greinke-pitch",
+    "filename": "zack-greinke-pitch.jpg",
+    "title": "Zack Greinke delivering a pitch in 2009",
+    "player": "Zack Greinke",
+    "team": "Kansas City Royals",
+    "league": "MLB",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "mlb",
+      "competitive"
+    ],
+    "creator": "Keith Allison on Flickr",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Zack_Greinke_on_July_29,_2009.jpg",
+    "sourceFile": "File:Zack Greinke on July 29, 2009.jpg",
+    "sourcePageId": 7550392,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zack_Greinke_on_July_29%2C_2009.jpg",
+    "sourceSha1": "0b835f037d574a9a0ad825318402dcc591ee28d6",
+    "sourceDimensions": [
+      2588,
+      2614
+    ],
+    "sourceDescription": "Donald Zackary \"Zack\" Greinke, an american Major League Baseball starting pitcher, delivers against the Baltimore Orioles in the first inning of a baseball game, Wednesday, July 29, 2009, in Baltimore.",
+    "sourceCredit": "Originally posted to Flickr as \"Zack Greinke\"",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark III",
+      "Zack Greinke",
+      "2009 Kansas City Royals season",
+      "Featured pictures of Maryland",
+      "Featured pictures of Missouri",
+      "Featured pictures on Wikipedia, English",
+      "MLB photos taken by Keith Allison",
+      "Flickr images reviewed by FlickreviewR",
+      "Featured pictures on Wikipedia, Persian",
+      "Black baseball gloves",
+      "Number 23 on sports jerseys",
+      "Assessment tagged pages marked as POTY candidates",
+      "Featured pictures from Flickr",
+      "Mizuno footwear",
+      "Mizuno baseball gloves",
+      "Male people with baseball caps",
+      "Featured pictures of baseball"
+    ],
+    "rightsPageSha256": "1402d75b952b188fafdb4d67d12130261a01d1e2d59ba29125a48cd5a2f52463",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison on Flickr / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1615,
+      1631
+    ],
+    "jpegQuality": 67,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 286299,
+    "sha256": "63411f2a2cb7828249200fd2c1c197d6c59298c216755e5cd9e29bebf42fa10e"
+  },
+  {
+    "id": "germany-italy-rink-hockey",
+    "filename": "germany-italy-rink-hockey.jpg",
+    "title": "Kevin Karschau carrying the ball against Davide Motaran",
+    "player": "Kevin Karschau / Davide Motaran",
+    "team": "Germany / Italy",
+    "league": "Rink hockey",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "rink hockey",
+      "competitive"
+    ],
+    "creator": "Carlos Delgado",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Alemania_vs_Italia_-_2014_CERH_European_Championship_-_11.jpg",
+    "sourceFile": "File:Alemania vs Italia - 2014 CERH European Championship - 11.jpg",
+    "sourcePageId": 34035722,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Alemania_vs_Italia_-_2014_CERH_European_Championship_-_11.jpg",
+    "sourceSha1": "ad20e91bea21a609b65e613c0ea6be4768dc0e29",
+    "sourceDimensions": [
+      3000,
+      2000
+    ],
+    "sourceDescription": "German captain Kevin Karschau goes forward with the ball while Italian captain Davide Motaran tries to stop him, Germany vs Italy, 2014 CERH European Championship.",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Taken with Canon EOS 60D",
+      "2014 CERH European Championship",
+      "Germany national roller hockey team",
+      "Italy national roller hockey team",
+      "Images with extracted images",
+      "Featured pictures by Kadellar",
+      "Featured pictures of sports",
+      "Featured pictures of the Community of Madrid",
+      "Pictures by User:Kadellar",
+      "Files with coordinates missing SDC location of creation",
+      "All media supported by Wikimedia España in 2014",
+      "Featured pictures with panning",
+      "Panning of skaters",
+      "Featured pictures supported by Wikimedia España",
+      "Campeonato de Europa de hockey patines 2014 - Supported by Wikimedia España",
+      "Davide Motaran"
+    ],
+    "rightsPageSha256": "63b2352141903ad33e802bd35bacf910975e348c439d68ac3d1a4c06a520da9b",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 4.0",
+    "attribution": "Carlos Delgado / Wikimedia Commons, CC BY-SA 4.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1280
+    ],
+    "jpegQuality": 79,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 284425,
+    "sha256": "8ce8e2f3df5529eb41bd9c653bff5dd5f2ed64538ce8188122f10aebc7e3370d"
+  },
+  {
+    "id": "andy-murray-forehand",
+    "filename": "andy-murray-forehand.jpg",
+    "title": "Andy Murray hitting a forehand at Queen’s Club in 2011",
+    "player": "Andy Murray",
+    "team": "Great Britain",
+    "league": "Tennis",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "tennis",
+      "competitive"
+    ],
+    "creator": "Carine06",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Andy_Murray_Forehand_Queens.jpg",
+    "sourceFile": "File:Andy Murray Forehand Queens.jpg",
+    "sourcePageId": 17374728,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Andy_Murray_Forehand_Queens.jpg",
+    "sourceSha1": "595f547be68a4e8f4fd9dbf9337a78616126f25f",
+    "sourceDimensions": [
+      1229,
+      1846
+    ],
+    "sourceDescription": "Andy Murray during his 3rd round match with Janko Tipsarevic. Murray won 6-4, 7-6.\n\nDay 4 of the Aegon Championships, Queen's Club 2011.",
+    "sourceCredit": "Flickr: Andy Murray",
+    "sourceCategories": [
+      "Tennis ball boys and girls",
+      "Taken with Nikon D60",
+      "Personality rights warning",
+      "2011 AEGON Championships",
+      "Forehand (tennis)",
+      "Flickr images uploaded by Flickr upload bot",
+      "Andy Murray in 2011",
+      "Files from Carine06 Flickr stream"
+    ],
+    "rightsPageSha256": "153c8e171f3254863fd7ed02e6a787038c0b36d5f5da09a5520c03287182c381",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Carine06 / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1442
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 247327,
+    "sha256": "a23db3636a26b103f6189e900045328a56787cbe7c864bb2b72430bbc36dbde5"
+  },
+  {
+    "id": "novak-djokovic-training",
+    "filename": "novak-djokovic-training.jpg",
+    "title": "Novak Djokovic training a forehand with Vajda",
+    "player": "Novak Djokovic",
+    "team": "Serbia",
+    "league": "Tennis",
+    "actionContext": "training",
+    "actionSuitable": true,
+    "tags": [
+      "tennis",
+      "training"
+    ],
+    "creator": "Nikko5555",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Nole_Forehand_1.jpg",
+    "sourceFile": "File:Nole Forehand 1.jpg",
+    "sourcePageId": 31520765,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nole_Forehand_1.jpg",
+    "sourceSha1": "2cca72b78b285eb8f17c5a25d7a9b2c4f886bda3",
+    "sourceDimensions": [
+      6000,
+      4000
+    ],
+    "sourceDescription": "Trening sa Vajdom",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Forehand (tennis)",
+      "2014 BNP Paribas Open",
+      "Self-published work",
+      "Novak Djokovic in 2014"
+    ],
+    "rightsPageSha256": "e727147b085f9ac37e84de46a0d1db900d6dfa8f06678e833ec21537932e602f",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 3.0",
+    "attribution": "Nikko5555 / Wikimedia Commons, CC BY-SA 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1280
+    ],
+    "jpegQuality": 76,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 285499,
+    "sha256": "9ff4396ae331a6578ba3ece543358d858219d1c4a35911afebdcb01a2040ff04"
+  },
+  {
+    "id": "womens-college-soccer",
+    "filename": "womens-college-soccer.jpg",
+    "title": "Sara Yamasaki and Alexa Enlow contesting possession",
+    "player": "Sara Yamasaki / Alexa Enlow",
+    "team": "Cal State East Bay / UC San Diego",
+    "league": "NCAA soccer",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "ncaa soccer",
+      "competitive"
+    ],
+    "creator": "Dirk Hansen",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Sara_Yamasaki,_Alexa_Enlow_fighting_over_ball.jpg",
+    "sourceFile": "File:Sara Yamasaki, Alexa Enlow fighting over ball.jpg",
+    "sourcePageId": 17024049,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sara_Yamasaki%2C_Alexa_Enlow_fighting_over_ball.jpg",
+    "sourceSha1": "69a55599725a74685f938585c0d3f5f816d490fe",
+    "sourceDimensions": [
+      2849,
+      3040
+    ],
+    "sourceDescription": "Sara Yamasaki (3, Cal State East Bay Pioneers) v Alexa Enlow (20, University of California, San Diego)",
+    "sourceCredit": "Flickr",
+    "sourceCategories": [
+      "Taken with Nikon D7000",
+      "California State University, East Bay athletics",
+      "Sara (given name)",
+      "Alexa (given name)",
+      "Flickr images reviewed by FlickreviewR",
+      "NCAA women's soccer matches",
+      "Women's association football defenders from the United States",
+      "Women's association football midfielders from the United States",
+      "Association football matches in the United States in 2011",
+      "UCSD Tritons women's soccer"
+    ],
+    "rightsPageSha256": "8c40ac341005b004896eae469ad8de9303f54a24c82b849557cf65521e689c40",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "attribution": "Dirk Hansen / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1529,
+      1632
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 299632,
+    "sha256": "9a407074b8c42ce8cb224bfe626b88dcbaa4cf5077429a057e77f4971498eb05"
+  },
+  {
+    "id": "utah-blues-faceoff",
+    "filename": "utah-blues-faceoff.jpg",
+    "title": "Logan Cooley and Dalibor Dvorsky at a preseason faceoff",
+    "player": "Logan Cooley / Dalibor Dvorsky",
+    "team": "Utah Hockey Club / St. Louis Blues",
+    "league": "NHL",
+    "actionContext": "preseason",
+    "actionSuitable": true,
+    "tags": [
+      "nhl",
+      "preseason"
+    ],
+    "creator": "Jar-Lar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:NHL-Utah-STL-DesMoines2024.jpg",
+    "sourceFile": "File:NHL-Utah-STL-DesMoines2024.jpg",
+    "sourcePageId": 153062448,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/NHL-Utah-STL-DesMoines2024.jpg",
+    "sourceSha1": "9b242382eb10c55dd9c0f819571ca6a6ef52d36a",
+    "sourceDimensions": [
+      4032,
+      3024
+    ],
+    "sourceDescription": "Utah Hockey Club's Logan Cooley\t(92) faces off against St. Louis Blue Dalibor Dvorsky (54) for the drop of the puck during a National Hockey League preseason game at Wells Fargo Arena in Des Moines, Iowa, on Sept. 22, 2024. Utah defeated St. Louis 5–3.",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "St. Louis Blues players",
+      "Wells Fargo Arena (Des Moines)",
+      "Brayden Schenn",
+      "Self-published work",
+      "Jack McBain",
+      "Dalibor Dvorský",
+      "Dylan Guenther",
+      "Logan Cooley",
+      "Ice hockey matches in 2024",
+      "Face-offs in the National Hockey League",
+      "2024–25 Utah Hockey Club season",
+      "Mathias Laferriere"
+    ],
+    "rightsPageSha256": "a5b7bd5b2125225c4e09957df435fc6fbac7859c8df7cf82f74bd5788681f22f",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 4.0",
+    "attribution": "Jar-Lar / Wikimedia Commons, CC BY-SA 4.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1632,
+      1224
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 293239,
+    "sha256": "731c72ecb3877aa09d7b27d463c969c46456c96b8908d6509e5d70eb84badc0f"
+  },
+  {
+    "id": "demar-derozan-dribble",
+    "filename": "demar-derozan-dribble.jpg",
+    "title": "DeMar DeRozan dribbling against Washington",
+    "player": "DeMar DeRozan",
+    "team": "Toronto Raptors",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:DeMar_DeRozan_dribbling_Nov_2_2016.jpg",
+    "sourceFile": "File:DeMar DeRozan dribbling Nov 2 2016.jpg",
+    "sourcePageId": 53840669,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/DeMar_DeRozan_dribbling_Nov_2_2016.jpg",
+    "sourceSha1": "a0df2464f2a80c5577e519c0037ebebdc66e850f",
+    "sourceDimensions": [
+      2556,
+      1804
+    ],
+    "sourceDescription": "DeMar DeRozan of the Toronto Raptors during a game against the Washington Wizards on November 2, 2016 at Verizon Center in Washington, DC.",
+    "sourceCredit": "DeMar DeRozan",
+    "sourceCategories": [
+      "DeMar DeRozan",
+      "Taken with Canon EOS-1D X Mark II",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Toronto Raptors vs Washington Wizards, 2 November 2016",
+      "Men dribbling basketballs"
+    ],
+    "rightsPageSha256": "4ffb2ed84bd520120bc6d27afdbad8d078e4347ea81a9abede23fa5369db0c07",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison from Hanover, MD, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1355
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 287000,
+    "sha256": "39bd31eccda5dffa3f7b1a3cf2001774f6df9e1ba9052fa4ed1063ec83862fc7"
+  },
+  {
+    "id": "gilbert-arenas-dribble",
+    "filename": "gilbert-arenas-dribble.jpg",
+    "title": "Gilbert Arenas dribbling",
+    "player": "Gilbert Arenas",
+    "team": "Washington Wizards",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Gilbert_Arenas_dribbling_November_2010.jpg",
+    "sourceFile": "File:Gilbert Arenas dribbling November 2010.jpg",
+    "sourcePageId": 12254157,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gilbert_Arenas_dribbling_November_2010.jpg",
+    "sourceSha1": "b7aeb8009919a43987d312e4880e7435adaf6d22",
+    "sourceDimensions": [
+      1936,
+      2274
+    ],
+    "sourceDescription": "Washington Wizards v/s Philadelphia 76ers November 23, 2010",
+    "sourceCredit": "originally posted to Flickr as Gilbert Arenas",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark III",
+      "Gilbert Arenas",
+      "2010–11 Washington Wizards season",
+      "Flickr images uploaded by Flickr upload bot",
+      "NBA photos taken by Keith Allison",
+      "Men dribbling basketballs"
+    ],
+    "rightsPageSha256": "b7c9b7c00416e414b7a4a7a6d184904ee9f49fb262928a68c63805d9afdf5b59",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1635,
+      1920
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 283661,
+    "sha256": "345e3b51b3aafe448a2f8dad95c834ca5f95ca1018e306f6fb3d75ddca53a994"
+  },
+  {
+    "id": "allen-iverson-dribble",
+    "filename": "allen-iverson-dribble.jpg",
+    "title": "Allen Iverson dribbling for Detroit",
+    "player": "Allen Iverson",
+    "team": "Detroit Pistons",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Iverson_dribbling.jpg",
+    "sourceFile": "File:Iverson dribbling.jpg",
+    "sourcePageId": 6209312,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Iverson_dribbling.jpg",
+    "sourceSha1": "2ba1fb35dc04e5aa7c725800f3ab08f99a384759",
+    "sourceDimensions": [
+      2496,
+      2434
+    ],
+    "sourceDescription": "Allen Iverson, of the National Basketball Association's Detroit Pistons, during a 2008 basketball game against the Washington Wizards.",
+    "sourceCredit": "https://www.flickr.com/photos/keithallison/3097585370/",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark III",
+      "2008–09 Detroit Pistons season",
+      "Allen Iverson",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Men dribbling basketballs"
+    ],
+    "rightsPageSha256": "0a934b45d468c2614f9fca7fe09549e56645f11f6a666890f2ce26d225ad0515",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1872
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 298109,
+    "sha256": "78654f0cfa4e6a7dd6f0ab364c81301e142b043a75c2b3690ba7dce327ccf8fa"
+  },
+  {
+    "id": "jrue-holiday-dribble",
+    "filename": "jrue-holiday-dribble.jpg",
+    "title": "Jrue Holiday dribbling against Washington",
+    "player": "Jrue Holiday",
+    "team": "Philadelphia 76ers",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Jrue_Holliday_dribbling.jpg",
+    "sourceFile": "File:Jrue Holliday dribbling.jpg",
+    "sourcePageId": 12254016,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jrue_Holliday_dribbling.jpg",
+    "sourceSha1": "78b37f04fb73b42864648b670d83581a84a68d45",
+    "sourceDimensions": [
+      1601,
+      2114
+    ],
+    "sourceDescription": "Washington Wizards v/s Philadelphia 76ers November 23, 2010",
+    "sourceCredit": "originally posted to Flickr as Jrue Holliday",
+    "sourceCategories": [
+      "Jrue Holiday",
+      "Flickr images uploaded by Flickr upload bot",
+      "NBA photos taken by Keith Allison",
+      "Men dribbling basketballs"
+    ],
+    "rightsPageSha256": "4024a8e637a0ebbab5688450ccfe5399adc2b51cb850ebddc4f8864946de7030",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1268
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 248341,
+    "sha256": "498a405b33a9e224424ce0aa646fe89c136c18972e847e8a135c3e317b3b3e88"
+  },
+  {
+    "id": "stephen-curry-dribble",
+    "filename": "stephen-curry-dribble.jpg",
+    "title": "Stephen Curry dribbling in 2016",
+    "player": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison from Hanover, MD, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephen_Curry_dribbling_2016.jpg",
+    "sourceFile": "File:Stephen Curry dribbling 2016.jpg",
+    "sourcePageId": 46777100,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Stephen_Curry_dribbling_2016.jpg",
+    "sourceSha1": "5d3bbf5c44085bc46fae1354fa748bd78a57a089",
+    "sourceDimensions": [
+      1396,
+      2521
+    ],
+    "sourceDescription": "Stephen Curry of Golden State Warriors",
+    "sourceCredit": "Stephen Curry",
+    "sourceCategories": [
+      "2015–16 Golden State Warriors season",
+      "Images with extracted images",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Stephen Curry in 2016",
+      "Number 30 on basketball jerseys",
+      "Men dribbling basketballs",
+      "Flickr images missing SDC published in"
+    ],
+    "rightsPageSha256": "840baf4e9a2dcbe2e30094d90275fc30c2a0f213a647cafd09f1fbf6b27fd75b",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison from Hanover, MD, USA / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1734
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 273539,
+    "sha256": "f34f66033638dabc13c2ecf341a6786175aa4b23dcfff38091cfc06dac03cff1"
+  },
+  {
+    "id": "rodney-stuckey-dribble",
+    "filename": "rodney-stuckey-dribble.jpg",
+    "title": "Rodney Stuckey dribbling",
+    "player": "Rodney Stuckey",
+    "team": "Detroit Pistons",
+    "league": "NBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "nba",
+      "competitive"
+    ],
+    "creator": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Stuckey_dribbling.jpg",
+    "sourceFile": "File:Stuckey dribbling.jpg",
+    "sourcePageId": 6209295,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Stuckey_dribbling.jpg",
+    "sourceSha1": "cc29fd1d9c4a880afba56a7472aac3299fe4719f",
+    "sourceDimensions": [
+      2213,
+      2440
+    ],
+    "sourceDescription": "Rodney Stuckey, of the National Basketball Association's Detroit Pistons, during a 2008 basketball game against the Washington Wizards.",
+    "sourceCredit": "https://www.flickr.com/photos/keithallison/3097583444/",
+    "sourceCategories": [
+      "Taken with Canon EOS-1D Mark III",
+      "2008–09 Detroit Pistons season",
+      "Rodney Stuckey",
+      "Flickr images reviewed by FlickreviewR",
+      "NBA photos taken by Keith Allison",
+      "Men dribbling basketballs"
+    ],
+    "rightsPageSha256": "999d14aa72c05865a43335429a99e3253b42e8aab7e142723a66244fd8fcfb57",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Keith Allison / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1741,
+      1920
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 283720,
+    "sha256": "d333ae7893ab7a0ef7144cafdccc8f9377bf561ab4a82d57bcbfa73cf30a873d"
+  },
+  {
+    "id": "dewanna-bonner-shot",
+    "filename": "dewanna-bonner-shot.jpg",
+    "title": "DeWanna Bonner shooting over Lynx defenders",
+    "player": "DeWanna Bonner",
+    "team": "Phoenix Mercury",
+    "league": "WNBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "wnba",
+      "competitive"
+    ],
+    "creator": "Lorie Shaull from St Paul, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:DeWanna_Bonner_shoots_over_defending_Lynx_players_(48019128326).jpg",
+    "sourceFile": "File:DeWanna Bonner shoots over defending Lynx players (48019128326).jpg",
+    "sourcePageId": 81223007,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/DeWanna_Bonner_shoots_over_defending_Lynx_players_%2848019128326%29.jpg",
+    "sourceSha1": "bb94c04fdd3362e7e4d2abb7a229241e125e1563",
+    "sourceDimensions": [
+      5643,
+      3762
+    ],
+    "sourceDescription": "Minnesota Lynx vs Phoenix Mercury at Target Center in Minneapolis, MN on June 6 2019; the Lynx won the game 58-56.\n\nPlease attribute to Lorie Shaull if used elsewhere.",
+    "sourceCredit": "DeWanna Bonner shoots over defending Lynx players",
+    "sourceCategories": [
+      "DeWanna Bonner",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Phoenix Mercury at Minnesota Lynx (June 7, 2019)",
+      "Photographs by Lorie Shaull",
+      "Sportspeople with Spalding basketballs",
+      "Spalding WNBA balls"
+    ],
+    "rightsPageSha256": "e6db677be19c1929361da6252dc632021614e68a4c77f5c556bfc75fd9cab029",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Lorie Shaull from St Paul, United States / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1280
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 264213,
+    "sha256": "2fe16c7e1051dd76978ffbdc2cb102bbfe649527cb6d8e0a267cc86e5cb6d686"
+  },
+  {
+    "id": "naz-hillmon-free-throw",
+    "filename": "naz-hillmon-free-throw.jpg",
+    "title": "Naz Hillmon preparing a playoff free throw in 2025",
+    "player": "Naz Hillmon",
+    "team": "Atlanta Dream",
+    "league": "WNBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "wnba",
+      "competitive"
+    ],
+    "creator": "Michael Cohn Photo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Naz_Hillmon_Atlanta_Dream_2025.jpg",
+    "sourceFile": "File:Naz Hillmon Atlanta Dream 2025.jpg",
+    "sourcePageId": 175142635,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Naz_Hillmon_Atlanta_Dream_2025.jpg",
+    "sourceSha1": "1165a80464b368eb58aacb4514969c4ea239df1a",
+    "sourceDimensions": [
+      1500,
+      2250
+    ],
+    "sourceDescription": "Naz Hillmon, Atlanta Dream, shoots a free throw during 2025 WNBA Playoffs (round 1 game 1).",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Naz Hillmon",
+      "Self-published work",
+      "Images with extracted images"
+    ],
+    "rightsPageSha256": "c23ba8a8568d2193371777bbc363512e5c900b3b2fb51ce9bacddcde4363624e",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 4.0",
+    "attribution": "Michael Cohn Photo / Wikimedia Commons, CC BY-SA 4.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1440
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 238260,
+    "sha256": "32bca55c65018a112ca2a2e0e351f3152d3ef28c89c290be63fff2fe3215dec3"
+  },
+  {
+    "id": "tehina-paopao-free-throw",
+    "filename": "tehina-paopao-free-throw.jpg",
+    "title": "Te-Hina Paopao shooting a free throw against Indiana",
+    "player": "Te-Hina Paopao",
+    "team": "Atlanta Dream",
+    "league": "WNBA",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "wnba",
+      "competitive"
+    ],
+    "creator": "Michael Cohn",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Te-Hina_Paopao_of_the_WNBA_Atlanta_Dream_Shooting_Free_Throw.jpg",
+    "sourceFile": "File:Te-Hina Paopao of the WNBA Atlanta Dream Shooting Free Throw.jpg",
+    "sourcePageId": 166648074,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Te-Hina_Paopao_of_the_WNBA_Atlanta_Dream_Shooting_Free_Throw.jpg",
+    "sourceSha1": "dabf3eabd5fc0832cefdcb6d7a5ef17b869a1c08",
+    "sourceDimensions": [
+      1440,
+      1920
+    ],
+    "sourceDescription": "Te-Hina Paopao of the WNBA Atlanta Dream shooting a Free Throw during a game vs the Indiana Fever. Also pictured, Kelsey Mitchell (0) and Allisha Gray (15).",
+    "sourceCredit": "https://www.flickr.com/photos/michaelcohnphoto/54563168604/",
+    "sourceCategories": [
+      "Files with coordinates missing SDC location of creation",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Te-Hina Paopao",
+      "2025 Atlanta Dream season",
+      "Flickr images missing SDC published in"
+    ],
+    "rightsPageSha256": "dd67aca8ea626a51e2a26d791040934ed97e8fb9cf3db9c0c711e87dd8679706",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 2.0",
+    "attribution": "Michael Cohn / Wikimedia Commons, CC BY-SA 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      1280
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.42
+    },
+    "bytes": 217336,
+    "sha256": "d19e5841beceeb53e578106d28b6156b6181515aac5814c3879125983c3f7713"
+  },
+  {
+    "id": "giraud-poux-tackle",
+    "filename": "giraud-poux-tackle.jpg",
+    "title": "Marc Giraud tackling Jean-Baptiste Poux",
+    "player": "Marc Giraud / Jean-Baptiste Poux",
+    "team": "SU Agen / Stade toulousain",
+    "league": "Rugby union",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "rugby union",
+      "competitive"
+    ],
+    "creator": "Pierre-Selim",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:ST_vs_SUA_-_2012-02-18_-_Match_-_29_-_Giraud_tackles_Poux.jpg",
+    "sourceFile": "File:ST vs SUA - 2012-02-18 - Match - 29 - Giraud tackles Poux.jpg",
+    "sourcePageId": 18422369,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/ST_vs_SUA_-_2012-02-18_-_Match_-_29_-_Giraud_tackles_Poux.jpg",
+    "sourceSha1": "cab0739171a57d3fd4a93ac492a35ec5b44c279c",
+    "sourceDimensions": [
+      2328,
+      1552
+    ],
+    "sourceDescription": "Marc Giraud (7. SU Agen) tackles Jean-Baptiste Poux (17. Stade toulousain)",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Taken with Canon EOS 7D",
+      "Personality rights warning",
+      "Jean-Baptiste Poux",
+      "Self-published work",
+      "Images by PierreSelim",
+      "QI by PierreSelim",
+      "2011-12 Top 14 Toulouse vs Agen",
+      "Sportspeople with head bandages"
+    ],
+    "rightsPageSha256": "5e69c70f26e66796a2ee7b7a04221142ac007ddbc521e03d43bd2209b0873dbb",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 3.0",
+    "attribution": "Pierre-Selim / Wikimedia Commons, CC BY-SA 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1632,
+      1088
+    ],
+    "jpegQuality": 70,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 287491,
+    "sha256": "acb70727ee81a008b2fb9090594037683487d335ec1481457c98403ae9d09c2b"
+  },
+  {
+    "id": "bath-rugby-sevens",
+    "filename": "bath-rugby-sevens.jpg",
+    "title": "Bath Rugby in a Middlesex Sevens tackle",
+    "player": "Bath Rugby players",
+    "team": "Bath Rugby",
+    "league": "Rugby sevens",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "rugby sevens",
+      "competitive"
+    ],
+    "creator": "https://www.flickr.com/photos/eyeonthesky/ supernova3688",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tackle_Middlesex_Sevens_bath_rugby_18_08_2007.jpg",
+    "sourceFile": "File:Tackle Middlesex Sevens bath rugby 18 08 2007.jpg",
+    "sourcePageId": 10049936,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tackle_Middlesex_Sevens_bath_rugby_18_08_2007.jpg",
+    "sourceSha1": "1b8e8eeb6b4562c336ea3364bf8a410b21a49694",
+    "sourceDimensions": [
+      1024,
+      664
+    ],
+    "sourceDescription": "Tackle Middlesex Sevens bath rugby 18 08 2007",
+    "sourceCredit": "https://www.flickr.com/photos/eyeonthesky/1170423016/",
+    "sourceCategories": [
+      "Flickr images reviewed by FlickreviewR",
+      "Matches of Bath Rugby"
+    ],
+    "rightsPageSha256": "e523a63f7ba7c38efefc74bdb4770206a28d078e4f1fbec72811a81f792ec7de",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "attribution": "https://www.flickr.com/photos/eyeonthesky/ supernova3688 / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      622
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 116504,
+    "sha256": "05ea9861d0e4fb30068e5b3202776aec5fc7e924f4f6c9f5912af034d7877f82"
+  },
+  {
+    "id": "nicolas-bezy-tackle",
+    "filename": "nicolas-bezy-tackle.jpg",
+    "title": "Tackle on Nicolas Bézy",
+    "player": "Nicolas Bézy",
+    "team": "Stade toulousain",
+    "league": "Rugby union",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "rugby union",
+      "competitive"
+    ],
+    "creator": "PierreSelim",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tackle_on_Nicolas_B%C3%A9zy.jpg",
+    "sourceFile": "File:Tackle on Nicolas Bézy.jpg",
+    "sourcePageId": 16254080,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tackle_on_Nicolas_B%C3%A9zy.jpg",
+    "sourceSha1": "293ffa1bdce8a4889ef3fc6925cb7fece33bd472",
+    "sourceDimensions": [
+      1200,
+      800
+    ],
+    "sourceDescription": "Plaquage sur Nicolas Bézy",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Taken with Canon EOS 550D",
+      "Tackle (rugby)",
+      "Nicolas Bézy",
+      "Self-published work",
+      "Men facing left",
+      "Men facing right",
+      "Images by PierreSelim",
+      "2011-12 Top 14 Bayonne vs Toulouse"
+    ],
+    "rightsPageSha256": "71378a55989f9409957f048b34b90759c76736598e7f28673c84179a30113b69",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 3.0",
+    "attribution": "PierreSelim / Wikimedia Commons, CC BY 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      640
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 115855,
+    "sha256": "b75671f0244aaf61b927818f5aeb2d34eec03d1630c53e963049c8e30d13ccf1"
+  },
+  {
+    "id": "cricket-batsman",
+    "filename": "cricket-batsman.jpg",
+    "title": "Cricket batsman playing a shot at Saint Edward State Park",
+    "player": "Unidentified batsman",
+    "team": "Not identified by source",
+    "league": "Cricket",
+    "actionContext": "recreational",
+    "actionSuitable": true,
+    "tags": [
+      "cricket",
+      "recreational"
+    ],
+    "creator": "Joe Mabel",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cricket_batsman_01.jpg",
+    "sourceFile": "File:Cricket batsman 01.jpg",
+    "sourcePageId": 11255945,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cricket_batsman_01.jpg",
+    "sourceSha1": "fe0a94734398fd5f6bddfea63db992979b102d4d",
+    "sourceDimensions": [
+      4288,
+      2848
+    ],
+    "sourceDescription": "Cricket batsman, Saint Edward State Park, Kenmore, Washington.",
+    "sourceCredit": "Photo by Joe Mabel",
+    "sourceCategories": [
+      "Cricket in the United States",
+      "GFDL",
+      "Taken with Nikon D5000",
+      "Saint Edward State Park",
+      "License migration redundant",
+      "Backyard cricket",
+      "Self-published work"
+    ],
+    "rightsPageSha256": "16823b6f8a512b15ad9b9cc4315ba315e6dacc2312950a4d63638d7978ab4379",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 3.0",
+    "attribution": "Joe Mabel / Wikimedia Commons, CC BY-SA 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1631,
+      1083
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 289934,
+    "sha256": "b03f352b236cf3571c80dce48e683c6e1c59cc20d9a47d64b21e1a8114c57ffa"
+  },
+  {
+    "id": "cricket-bowled",
+    "filename": "cricket-bowled.jpg",
+    "title": "Cricket batsman bowled at Kingswood School playing fields",
+    "player": "Unidentified batsman",
+    "team": "Friendly sides (not named by source)",
+    "league": "Cricket",
+    "actionContext": "recreational",
+    "actionSuitable": true,
+    "tags": [
+      "cricket",
+      "recreational"
+    ],
+    "creator": "Lemonlolly",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cricketer_bowled.jpg",
+    "sourceFile": "File:Cricketer bowled.jpg",
+    "sourcePageId": 15409044,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cricketer_bowled.jpg",
+    "sourceSha1": "108077ab9bbb2c97ae170c1379d5d20c8d632bbc",
+    "sourceDimensions": [
+      2289,
+      1542
+    ],
+    "sourceDescription": "A batsman is bowled early in a cricket match between two friendly sides at Kingswood School playing fields, Bath.",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Taken with Canon EOS 1000D",
+      "Personality rights warning",
+      "2011 in cricket",
+      "Cricket grounds in Somerset",
+      "Self-published work",
+      "May 2011 in Somerset",
+      "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+      "Bowled out (cricket)"
+    ],
+    "rightsPageSha256": "a78ed94f40abb62c9ac6b2a305c2f89396129ef46b8f961faee2c17b0e838cf8",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 3.0",
+    "attribution": "Lemonlolly / Wikimedia Commons, CC BY-SA 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1920,
+      1293
+    ],
+    "jpegQuality": 73,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 282950,
+    "sha256": "b01f3164aaebe7be5e967d170b6be60a1e4c849ad8b3d87409787e6f522d81ab"
+  },
+  {
+    "id": "sachin-tendulkar-batting",
+    "filename": "sachin-tendulkar-batting.jpg",
+    "title": "Sachin Tendulkar batting at Melbourne in 2007",
+    "player": "Sachin Tendulkar",
+    "team": "India",
+    "league": "Test cricket",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "test cricket",
+      "competitive"
+    ],
+    "creator": "Vikas",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Master_Blaster_at_work.jpg",
+    "sourceFile": "File:Master Blaster at work.jpg",
+    "sourcePageId": 3365652,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Master_Blaster_at_work.jpg",
+    "sourceSha1": "211f9e7b52b32b32aade39f0ce982cb6b299c360",
+    "sourceDimensions": [
+      1024,
+      679
+    ],
+    "sourceDescription": "Sachin smiling (India tour of Australia, 1st Test: Australia v India at Melbourne, Dec 26-29, 2007)",
+    "sourceCredit": "The Legend",
+    "sourceCategories": [
+      "Taken with Pentax K100D Super",
+      "Sachin Tendulkar",
+      "Flickr images reviewed by FlickreviewR",
+      "First Test, 2007–08 Border–Gavaskar Trophy"
+    ],
+    "rightsPageSha256": "9113fcac7ed1e1028e631f197af235e13b0952aa317e8aedfadedde4823ef81c",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY 2.0",
+    "attribution": "Vikas / Wikimedia Commons, CC BY 2.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      960,
+      637
+    ],
+    "jpegQuality": 85,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 111699,
+    "sha256": "8c4e6adcaf9b8bf60126549c1d46414f938ea9fe0c10360c29a08e078717e4bc"
+  },
+  {
+    "id": "pcaph-cern-cricket",
+    "filename": "pcaph-cern-cricket.jpg",
+    "title": "PCAPH versus CERN cricket match in 2014",
+    "player": "PCAPH / CERN players",
+    "team": "PCAPH / CERN CC",
+    "league": "Cricket",
+    "actionContext": "competitive",
+    "actionSuitable": true,
+    "tags": [
+      "cricket",
+      "competitive"
+    ],
+    "creator": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:PCAPH_vs_CERN_CC_-_20140911_58.jpg",
+    "sourceFile": "File:PCAPH vs CERN CC - 20140911 58.jpg",
+    "sourcePageId": 35363588,
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/PCAPH_vs_CERN_CC_-_20140911_58.jpg",
+    "sourceSha1": "207275b02358a10f1368e084e9afbfda1a0e5594",
+    "sourceDimensions": [
+      2776,
+      1838
+    ],
+    "sourceDescription": "Cricket match - PCAPH vs CERN CC - 20140911",
+    "sourceCredit": "Own work",
+    "sourceCategories": [
+      "Taken with Pentax K-5 II",
+      "Uploaded with KIPI uploader",
+      "Self-published work",
+      "All media supported by Wikimedia CH",
+      "Files by Pleclown",
+      "PCAPH vs CERN CC - 20140911 - Supported by Wikimedia CH",
+      "Files with coordinates missing SDC location of creation",
+      "PCAPH vs CERN CC – 11-09-2014",
+      "Sport files by Pleclown"
+    ],
+    "rightsPageSha256": "78a168b37f6e661153d874233a12612750d00ffe20e26c8af433fc29d9d2138a",
+    "modifications": "EXIF orientation applied; resized without additional cropping; converted/recompressed to baseline RGB JPEG; metadata stripped. Upstream crop retained where source file is already cropped.",
+    "derivativeLicense": "CC BY-SA 3.0",
+    "attribution": "Clément Bucco-Lechat / Wikimedia Commons, CC BY-SA 3.0; resized and recompressed by StreamScout",
+    "dimensions": [
+      1631,
+      1080
+    ],
+    "jpegQuality": 61,
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "bytes": 286697,
+    "sha256": "64e9411956c337f157793fe9905dd617201c7687338e6286a0b14cfbfef166fa"
   }
 ]
