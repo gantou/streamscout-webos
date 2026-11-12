@@ -1,6 +1,6 @@
 {
   "name": "streamscout-webos",
-  "version": "0.4.17",
+  "version": "0.4.20",
   "private": true,
   "scripts": {
     "test": "node --test tests/*.test.cjs",
