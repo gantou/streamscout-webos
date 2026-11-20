@@ -2,7 +2,8 @@
 import io,json,os,subprocess,tarfile,tempfile
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
-subprocess.run(['ares-package','app','-o','dist'],cwd=root,check=True)
+ares_package = root/'node_modules'/'@webos-tools'/'cli'/'bin'/'ares-package.js'
+subprocess.run(['node', str(ares_package), 'app', '-o', 'dist'], cwd=root, check=True)
 info=json.loads((root/'app/appinfo.json').read_text())
 ipk=root/'dist'/f"{info['id']}_{info['version']}_all.ipk"
 raw=subprocess.check_output(['ar','p',str(ipk),'data.tar.gz'])
