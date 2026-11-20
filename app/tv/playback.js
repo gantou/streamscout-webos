@@ -9,6 +9,15 @@
   }
   function createPlayback(options) {
     const {video,Hls,url,status}=options;
+    if(!Hls){
+      status('HLS.js unavailable; browser-native HLS may still work.');
+      options.onFailure?.();
+      return {
+        engine:null,
+        get failed(){return true;},
+        destroy(){}
+      };
+    }
     const engine=new Hls(playerConfig(options.smooth!==false));
     const now=options.now||(()=>Date.now()),schedule=options.setInterval||root.setInterval.bind(root),cancel=options.clearInterval||root.clearInterval.bind(root);
     let dead=false,failed=false,networkRetries=0,mediaRetries=0,refreshes=0,refreshing=false,lastTime=video.currentTime,lastAdvance=now(),stalls=0,live=false,download=0;

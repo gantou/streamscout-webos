@@ -32,3 +32,18 @@ with sync_playwright() as p:
     assert not errors,errors
     ctx.close(); b.close()
 print('TV viewport player, controls auto-hide/wake/pause, exit to browsing passed')
+
+with sync_playwright() as p:
+    b=p.chromium.connect_over_cdp(os.getenv('STREAMSCOUT_CDP','http://127.0.0.1:19223'))
+    ctx=b.new_context(viewport={'width':1920,'height':1080})
+    page=ctx.new_page(); errors=[]
+    page.on('pageerror',lambda e:errors.append(str(e)))
+    page.goto('http://127.0.0.1:8000/tv/?client=webos')
+    page.wait_for_selector('body.webos-app')
+    page.evaluate('window.Hls = undefined')
+    page.evaluate("document.querySelector('#watch').hidden=false")
+    page.wait_for_selector('body.webos-watching')
+    assert not any('HLS is not defined' in e or 'Hls is not defined' in e for e in errors), errors
+    assert page.locator('#tv-play-status').inner_text()
+    ctx.close(); b.close()
+print('TV missing-Hls fallback test passed')
